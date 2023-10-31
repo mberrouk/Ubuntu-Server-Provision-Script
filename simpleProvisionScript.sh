@@ -46,9 +46,6 @@ apt-get install software-properties-common
 ## Prerequisites for the Python modules
 apt-get install python-dev python-pip python3-dev python3-pip
 ## Install nvim
-sudo add-apt-repository ppa:neovim-ppa/stable
-sudo apt-get update
-sudo apt-get install neovim
 
 # Add a simple config for nvim
 ##Pre-requisites
